@@ -1,6 +1,6 @@
 function Solicitudes(){
     return(
-        <h1>SOLICITUDES</h1>
+        <h1 className="text-black">SOLICITUDES</h1>
     );
 }
 export default Solicitudes
